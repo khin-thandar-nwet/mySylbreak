@@ -5,7 +5,7 @@ myanmar 3
 --
 install jdk 8
 -----
-Sylbreak.jar,
+run Sylbreak.jar(duuble ckick),
 swt-win64-3.6.3.jar
 
 
